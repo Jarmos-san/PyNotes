@@ -1,4 +1,4 @@
-# PyNotes
+# PyNotes `WIP`
 
 Around a year ago, when I started out on the journey to teach myself Python, I was confused and lost about where and how do I start learning it! A quick Google search would recommend me to take up an online course either from [here](https://www.codecademy.com/learn/learn-python "Learn Python | Codeacademy") on Codeacademy or from [here](https://www.coursera.org/specializations/python "Python for Everybody on Coursera"). Eventually I applied for the first course from the "Python for Everybody" course on Coursera and picked up the basics of Python/programming in general.
 
