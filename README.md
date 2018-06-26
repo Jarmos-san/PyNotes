@@ -4,4 +4,8 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 
 This project is a **WORK-IN-PROGRESS** so feel free to add anything you prefer to be added here.
 
+Start here and move ahead according to the list:
+
+- [Python Objects & Data Structures](https://github.com/Jarmos-san/PyNotes/blob/master/python_objects_%26_data_structures.md)
+
 GOOD LUCK AND HAPPY LEARNING
