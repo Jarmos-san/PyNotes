@@ -1,11 +1,7 @@
 # PyNotes `WIP`
 
-Around a year ago, when I started out on the journey to teach myself Python, I was confused and lost about where and how do I start learning it! A quick Google search would recommend me to take up an online course either from [here](https://www.codecademy.com/learn/learn-python "Learn Python | Codeacademy") on Codeacademy or from [here](https://www.coursera.org/specializations/python "Python for Everybody on Coursera"). Eventually I applied for the first course from the "Python for Everybody" course on Coursera and picked up the basics of Python/programming in general.
+PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-san/R_Notes). It's more of curated list of various resources(video tutorials, online courses, etc) and reading materials which I have made personally while referring to all the resources mentioned below.
 
-It didn't take me too long to realise that it wasn't enough and thus with the decent enough of programming knowledge that I picked up over that period, I moved on with watching YouTube tutorials like the ones from [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) and his ["Python Tutorials"](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) series. There're a couple of YouTube Python tutorial videos I've been following over the past one year of programming which I'll be curating as soon as possible and put it up here for easier access.
+This project is a **WORK-IN-PROGRESS** so feel free to add anything you prefer to be added here.
 
-A while later I came across a Slack channel and peeps over there have been extremely helpful to me and making my learning journey easier. The subreddit [r/learnpython](https://www.reddit.com/r/learnpython/) has also been quite helpful for me in clearing certain doubts I had with some of the Python basics and this is where I was recommended to follow the book "Automate the Boring Stuffs" by Al Sweigart. The book is accessible [here](https://automatetheboringstuff.com/) for free and there's also a complete tutorial series on Udemy over [here](https://www.udemy.com/automate/ "Automate the Boring Stuff with Python Programming").
-
-The idea behind PyNotes came up as a side project when I realized how helpful it would be for beginner programmers like me if I could share my notes prepared while learning Python programming myself! Thus PyNotes is partly based the explanation from the video tutorial series "Automate the Boring Stuffs" from Udemy and other other sources. Hopefully it would prove to be helpful to you on your journey towards mastering the skill of Python programming.
-
-Lastly, please bear in mind that this is a work in progress side project I'll be working on for a very long time. Thus your feedbacks are welcome and if needed drop a mail at `somraj.1994@gmail.com` 
+GOOD LUCK AND HAPPY LEARNING
