@@ -6,6 +6,6 @@ This project is a **WORK-IN-PROGRESS** so feel free to add anything you prefer t
 
 Start here and move ahead according to the list:
 
-- [Numbers and Variables](https://github.com/Jarmos-san/PyNotes/blob/master/python_objects_%26_data_structures.md)
+- [Numbers and Variables](PyNotes/numbers_&_variables.md)
 
 GOOD LUCK AND HAPPY LEARNING
