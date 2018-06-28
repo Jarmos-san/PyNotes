@@ -1,4 +1,4 @@
-# Python Objects & Data Structures
+# Numbers and Variables
 Might move indivual topics to their respective files later as per convinience and subject to how long this file might get over time.
 
 Numbers
