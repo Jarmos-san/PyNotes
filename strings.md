@@ -1,8 +1,10 @@
 # Strings
+
 Strings in Python are considered as "Sequences" to record text information which is rather useful to keep track of every elements in the string as a sequence. Thus strings can be manipulated/grabbed according to their index as Python interprets the sequence of elements in a string as an "immutable" order of arrangements.
 
 A "string" can be created by wrapping a word within `" "/' '`(double/single quotations) 
 Example:
+
 ```Python
 # single word
 'hello'
@@ -26,39 +28,44 @@ Hello World 2
 Use 
 to print a new line
 
-
 See what I mean?
 ```
 
 String Functions and Indexing
 ----
 - `len()` can be used to check the length of a string
-_Example_:
-
+	_Example_:
+	
 	```Python
-len('hello world')
-11							# Even white spaces are counted as characters
-```
+	len('hello world')
+	11			# Even white spaces are counted as characters
+	```
 
 - Since Python stores strings as a sequence of elements, those strings can be indexed. Also something to be noted is that Python indexing starts at 0.
 
 	- Indexing
-	_Example _:
+	    
+	    _Example_
+	    
+		```Python
+		# assigning string value to a variable
+		foo = 'hello world'
+		```
+		
+	 - String Slicing
+	    
+	    _Example_ 
+    		
+		```Python
+    		s[0]
+    		'h'				# since h is the first index of the string variable 's'
+    		s[3]
+    		'l'
+    		```
 
-	```Python
-	# assigning string value to a variable
-	foo = 'hello world'
-	
-    # string slicing
-    s[0]
-    'h'				# since h is the first index of the string variable 's'
-    s[3]
-    'l'
-    ```
-
-	- Slicing
+	 - Slicing
 	The `:` can be used to perform string slicing as shown in the example below
-	_Example_:
+			
     ```Python
     s = 'hello world'
     
@@ -91,6 +98,7 @@ len('hello world')
 String Properties
 ------
 - As mentioned earlier strings are _immutable_ which means that once created the elements of a string cannot be changed or created anew.
+	
 	_Example_:
 	
     ```Python
@@ -107,6 +115,7 @@ String Properties
 As expected trying to change an element of a string would raise an error.
 
 - Strings can be concatenated as well.
+	
 	_Example_:
     ```Python
     foo = 'hello world'
@@ -121,7 +130,8 @@ As expected trying to change an element of a string would raise an error.
     ```
 
 - String repetition!
- 	_Example_:
+ 	
+	_Example_:
     ```Python
     foo = z
     foo * 5
@@ -131,6 +141,7 @@ As expected trying to change an element of a string would raise an error.
 String Methods
 ----
 Since everything in Python is an `object` strings as well, special built-in methods can be performed on the object itself.
+
 _Example_:
 ```Python
 foo = 'Hello World'
@@ -155,6 +166,7 @@ foo.split(W)
 String Formatting
 -----
 The `.format()` method can be performed on strings to add formatted objects to the print statements
+
 _Example_:
 ```Python
 'Insert another string with curly brackets: {}'.format('The inserted string')
