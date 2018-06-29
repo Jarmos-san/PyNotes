@@ -8,6 +8,7 @@ Start here and move ahead according to the list:
 
 - [Numbers and Variables](https://github.com/Jarmos-san/PyNotes/blob/master/numbers_%26_variables.md)
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
+- [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
 
 License
 -----
