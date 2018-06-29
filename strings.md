@@ -172,6 +172,7 @@ _Example_:
 'Insert another string with curly brackets: {}'.format('The inserted string')
 'Insert another string with curly brackets: The inserted string'
 ```
+Refer to the [String Formatting methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md) notes for more information and proper usage of various `format` methods
 
 _**Important Notes:**_
 - The `print()`function is **NOT** a function in Python 2, rather it's a **STATEMENT**
