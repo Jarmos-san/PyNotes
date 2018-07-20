@@ -1,10 +1,10 @@
 # Boolean and Compariso Operators
 
 Contents:
-- [Comparison Operators]()
-- [Boolean Operators]()
-- [Inverse Boolean]()
-- [Membership Operator]()
+- [Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md#comparison-operators)
+- [Boolean Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md#boolean-operators)
+- [Inverse Boolean](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md#inverse-boolean)
+- [Membership Operator](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md#membership-operator)
 
 Comparison Operators
 ----
