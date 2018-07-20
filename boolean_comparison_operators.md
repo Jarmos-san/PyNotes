@@ -1,4 +1,4 @@
-# Boolean and Compariso Operators
+# Boolean and Comparison Operators
 
 Contents:
 - [Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md#comparison-operators)
