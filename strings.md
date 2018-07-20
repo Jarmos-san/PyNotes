@@ -1,5 +1,11 @@
 # Strings
 
+Content:
+- [String Functions & Indexing](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md#string-functions-and-indexing)
+- [String Properties](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md#string-properties)
+- [String Methods](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md#string-methods)
+- [String Formatting](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md#string-formatting)
+
 Strings in Python are considered as "Sequences" to record text information which is rather useful to keep track of every elements in the string as a sequence. Thus strings can be manipulated/grabbed according to their index as Python interprets the sequence of elements in a string as an "immutable" order of arrangements.
 
 A "string" can be created by wrapping a word within `" "/' '`(double/single quotations) 
