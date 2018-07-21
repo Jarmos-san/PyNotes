@@ -15,7 +15,7 @@ Books
 MOOCS
 ----
 - [Learn Python 3.6 For Total Beginners](https://www.udemy.com/python-3-for-total-beginners/learn/v4/overview) available of Udemy for free alongwith the certificate
-- [Python fpr Everybody](https://www.coursera.org/specializations/python) videos available for free although getting a certificate would need an one time payment
+- [Python for Everybody](https://www.coursera.org/specializations/python) videos are available for free on Coursera for free although getting a certificate would need an one time payment
 
 Acknowledgments
 -----
