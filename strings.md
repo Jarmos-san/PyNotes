@@ -167,6 +167,28 @@ foo.split()
 # split() can also be used on specific elements
 foo.split(W)
 'Hello orld'
+
+# len() checks for the length of the string
+day = "GOOD DAY"
+len(day)
+8
+
+# .lower() makes all elements lower string
+day.lower()
+'good day'
+
+# .upper() makes all elements upper string
+day.upper()
+'GOOD DAY'
+
+# .capitalize() makes the first element of a string into caps
+night.capitalize()
+'Good night'
+
+# Checks the number of times a specific element shows up in a string
+check = "a a a b b b B c"
+check.count("a")
+3
 ```
 
 String Formatting
