@@ -1,4 +1,4 @@
-# PyNotes `WIP`
+# PyNotes
 
 PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-san/R_Notes). It's more of curated list of various resources(video tutorials, online courses, etc) and reading materials which I have made personally while referring to all the resources mentioned below.
 
@@ -10,10 +10,17 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 Books
 -----
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html)
+- [Automate the Boring Stuffs With Python](https://automatetheboringstuff.com/)
+
+MOOCS
+----
+- [Learn Python 3.6 For Total Beginners](https://www.udemy.com/python-3-for-total-beginners/learn/v4/overview) available of Udemy for free alongwith the certificate
+- [Python fpr Everybody](https://www.coursera.org/specializations/python) videos available for free although getting a certificate would need an one time payment
 
 Acknowledgments
 -----
 - [Sundeep Agarwal](https://github.com/learnbyexample)
+- [r/learnpython](https://www.reddit.com/r/learnpython/)
 
 License
 -----
