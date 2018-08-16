@@ -10,21 +10,21 @@ A _**Function**_ can be considered as a sequence of statements that performs cer
 - Well designed functions can be reused mutlple times for more than one programs. 
 
 ## Content
-- [Functions Calls]()
+- [Functions Calls](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#function-calls)
 
-- [Math Functions]()
+- [Math Functions](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#math-fnctions)
 
-- [Composition]()
+- [Composition](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#composition)
 
-- [Adding New Functions]()
+- [Adding New Functions](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#adding-new-functions)
 
-- [Defintions and Uses]()
+- [Defintions and Uses](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#definitions-and-uses)
 
-- [Flow of Execution]()
+- [Flow of Execution](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#flow-of-execution)
 
-- [Variables, Parameters & Arguments]()
+- [Variables, Parameters & Arguments](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#variabes-parameters--arguments)
 
-- [Fruitful Functions and Void Functions]()
+- [Fruitful Functions and Void Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#fruitful-functions--void-functions)
 
 
 Function Calls
