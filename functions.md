@@ -12,15 +12,15 @@ A _**Function**_ can be considered as a sequence of statements that performs cer
 ## Content
 - [Functions Calls](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#function-calls)
 
-- [Math Functions](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#math-fnctions)
+- [Math Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#math-functions)
 
-- [Composition](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#composition)
+- [Composition](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#composition)
 
-- [Adding New Functions](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#adding-new-functions)
+- [Adding New Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#adding-new-functions)
 
-- [Defintions and Uses](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#definitions-and-uses)
+- [Defintions and Uses](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#definitions-and-uses)
 
-- [Flow of Execution](https://github.com/Jarmos-san/PyNotes/edit/master/functions.md#flow-of-execution)
+- [Flow of Execution](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#flow-of-execution)
 
 - [Variables, Parameters & Arguments](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md#variabes-parameters--arguments)
 
