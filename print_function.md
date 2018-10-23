@@ -7,7 +7,9 @@
 
 - The syntax of the `print()` function is as follows:
     
-    `print(*objects, sep=' ', end='\n', file=sys.stdout)`
+    ```
+    print(*objects, sep=' ', end='\n', file=sys.stdout)
+    ```
 
 - `print()` parameters:
      + ***objects** - object to be printed to standard ouput where * stands for multiple objects.
