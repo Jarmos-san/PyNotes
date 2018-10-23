@@ -49,7 +49,7 @@ _**Note:**_
 
 ```Python
 #This is wrong!!
-print(*objects, "|", ","")
+print(*objects, "|", ",")
 
 #This is the right way to do it!!
 print(*objects, sep="|", end=',')
