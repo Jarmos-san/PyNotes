@@ -7,6 +7,7 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
 - [Boolean & Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md)
 - [Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md)
+- [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/print_function.md)
 
 Books
 -----
@@ -16,7 +17,7 @@ Books
 MOOCS
 ----
 - [Learn Python 3.6 For Total Beginners](https://www.udemy.com/python-3-for-total-beginners/learn/v4/overview) available of Udemy for free alongwith the certificate
-- [Python for Everybody](https://www.coursera.org/specializations/python) videos are available for free on Coursera for free although getting a certificate would need an one time payment
+- [Python for Everybody](https://www.coursera.org/specializations/python) videos are available for free on Coursera although getting a certificate would need an one time payment
 
 Acknowledgments
 -----
