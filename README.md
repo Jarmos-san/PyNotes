@@ -2,13 +2,13 @@
 
 PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-san/R_Notes). It's more of curated list of various resources(video tutorials, online courses, etc) and reading materials which I have made personally while referring to all the resources mentioned below.
 
+- [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/print_function.md)
 - [Numberic Types and Operators](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_types_%26_operators.md)
+- [Numeric Conversion Function](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_conversion_functions.md)
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
 - [Boolean & Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md)
 - [Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md)
-- [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/print_function.md)
-- [Numeric Conversion Function](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_conversion_functions.md)
 
 Books
 -----
