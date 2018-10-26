@@ -8,7 +8,7 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 - [Boolean & Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md)
 - [Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md)
 - [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/print_function.md)
-- [Numeric Conversion](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_conversion_functions.md)
+- [Numeric Conversion Function](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_conversion_functions.md)
 
 Books
 -----
