@@ -49,6 +49,10 @@ _**Example:**_
 >>>long(2**64)
 18446744073709551616L
 ```
+_**NOTE:**_
+As of Python3.x `long()` is no longer used. Instead `int()` is used as usual. For more information refer to;
+[Stack Overflow](https://stackoverflow.com/a/14904834/8604951)
+[PEP 0237](https://docs.python.org/3.3/whatsnew/3.0.html#integers)
 
 `complex(real, [imag])`
 ------------
