@@ -11,11 +11,11 @@ complex types to see the difference.
 - '(553/312)**2'
 '''
 
-#print(complex('355/113*(1-0.0003/3522)'))
+print(complex('355/113*(1-0.0003/3522)'))
 print(long('355/113*(1-0.0003/3522)'))
 
-#print(complex('22/17+37/47+88/83'))
+print(complex('22/17+37/47+88/83'))
 print(long('22/17 + 37/47 + 88/83'))
 
-#print(complex('(553/312)**2'))
+print(complex('(553/312)**2'))
 print(long('(553/312)**2'))

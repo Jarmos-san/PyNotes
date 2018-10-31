@@ -58,3 +58,7 @@ Collection Function
 >>>min(1, 2, 3)
 1
 ```
+
+_**References:**_
+- [Stack Overflow](https://stackoverflow.com/a/2626364/8604951)
+- [Corey Schafer - Python Tutorial: `str()` vs `repr()`](https://www.youtube.com/watch?v=5cvM-crlDvg)

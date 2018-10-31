@@ -15,6 +15,7 @@ Books
 -----
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html)
 - [Automate the Boring Stuffs With Python](https://automatetheboringstuff.com/)
+- Building Skills in Python - [HTML](http://buildingskills.itmaybeahack.com/book/python-2.6/html/index.html)/[PDF](http://buildingskills.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
 
 MOOCS
 ----
