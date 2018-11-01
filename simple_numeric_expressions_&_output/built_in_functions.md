@@ -6,6 +6,8 @@ Math Functions
 - `pow(x, y)` - Raise x to the y power, `x**y`.
 - `round(number, digits)` - Round a _floating-point number_ to _ndigits_ beyong the decimal point.
 
+_**Note:**_ More mathematical functions are available in the `math` module. Read more about it from the [The `math` Module]() page.
+
 String Functions
 ---------
 Providing alternate representations of numeric values this list of functions expands on the _Numeric Conversion Functions_.
