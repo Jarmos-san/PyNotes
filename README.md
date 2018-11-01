@@ -4,7 +4,7 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 
 - [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/print_function.md)
 - [Numberic Types and Operators](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/numeric_types_%26_operators.md)
-- [Numeric Conversion Function](https://github.com/Jarmos-san/PyNotes/blob/master/numeric_conversion_functions.md)
+- [Numeric Conversion Function](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/numeric_conversion_functions.md)
 - [Built-in Functions](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/built_in_functions.md)
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
