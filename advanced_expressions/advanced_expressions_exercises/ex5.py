@@ -60,7 +60,7 @@ C = 15 #temp in Celsius
 T = 273 + C #temp in Kelvin
 
 # Pressure at elevation
-P = P0*pow(math.e, (m*g/R*T)*z)
+P = P0*pow(math.e, ((-m*g*z)/(R*T)))
 
 # Weight of atmoshere adjusted for land elevation
 M1 = (P0*g*A0) + (P*g*A1)
