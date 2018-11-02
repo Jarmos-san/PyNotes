@@ -2,6 +2,9 @@
 
 By default Python comes packed in with four built-in types of numbers: _**plain integers**_, _**long integers**_, _**floating point numbers**_ and _**complex numbers**_. These numbers can all be coerced from one type to another as well as be made available to the standard **arithmetic operators** mentioned as folows; 
 
+Arithmetic Operators
+---------
+
 | Operator  |  Description                                         | Syntax |
 |-----------|------------------------------------------------------|--------|
 |  +  |  Addition: adds two operands                               | x + y  |
