@@ -28,22 +28,5 @@ you can comfortably dive.
 Write two print statements that shows how long one can dive at 60 feet and 70 feet.
 '''
 
-#constant values
-#starting pressure
-s = 2500
-
-#final pressure
-f = 500
-
-#SACR
-c = 15.2
-
-#time
-d1, d2 = 60, 70
-
-#time estimates
-t1 = (33*(s-f))/(c*(d1 + 33))
-t2 = (33*(s-f))/(c*(d2 + 33))
-
-print('To dive 60 ft it will take: ', int(t1), 'minutes')
-print('To dive 70 ft it will take: ', int(t2), 'minutes')
+print('To dive 60 ft it will take: ', int((33*(2500-500))/(15.2*(60 + 33))), 'minutes')
+print('To dive 70 ft it will take: ', int((33*(2500-500))/(15.2*(70 + 33))), 'minutes')

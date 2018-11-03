@@ -25,24 +25,6 @@ Note that banks actually process things monthly. So you'll have to divide
 the interest by 12 and multiply the number of payments by 12.
 '''
 
-#principal
-p = 110000
-
-#monthly interest rate
-r = 7.25 / 12
-
-#number of monthly payments
-n = 30 * 12
-
-#formula - I
-m1 = p * r/(1-(1+r)**-n)
-
-#formula - II
-m2 = -r*p*(r+1)**n/(r+1)**n-1 
-
-#formula - III
-m3 = (-r*p*(r+1)**n)/((r+1)**n-1)*(r+1)
-
-print('Cost of mortgage = ', int(m1))
-print('Mortgage with payments due at the end of each period = ', int(m2))
-print('Mortgage with paymens due at the beginning of each period = ', int(m3))
+print('Cost of mortgage = ', int(110000 * ((7.25/12)/(1 - (1+(7.25/12))**-(30*12)))
+print('Mortgage with payments due at the end of each period = ', int(-(7.25/12)*110000*((7.25/12)+1)**(30*12)/((7.25/12)+1)**(30*12)-1))
+print('Mortgage with paymens due at the beginning of each period = ', int((-(7.25/12)*110000*((7.25/12)+1)**(30*12)/(((7.25/12)+1)**(30*12-1)*((7.25/12)+1)))

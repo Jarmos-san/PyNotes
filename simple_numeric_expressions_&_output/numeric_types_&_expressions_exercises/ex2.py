@@ -10,10 +10,7 @@ Create a print statement to convert 18 C to F.
 Create a print statement to convert -4 F to C.
 '''
 
-C = 18 #Celsius
-F = -4 #Farenheit
-
 #Farenheit conversion
-print("F =", 32+(((212-32)/100)*C)) 
+print("F =", 32+(((212-32)/100)*18)) 
 #Celsius conversion
-print("C =", (F-32)*100/(212-32)) 
+print("C =", (-4-32)*100/(212-32)) 
