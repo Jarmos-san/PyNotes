@@ -12,11 +12,3 @@
     + Variables referring to objects can be independent of the object itself which means that variables that are in distinct namespace can reference to the same object.
 - Python assigns a name to every variable object and it's visibility is considered as the _scope_. A variable with a _global scope_ can be referenced anywhere while one with a _local scope_ can only be referenced with a limited suite of statements.
 - Python also collects every variable into seperate pools, called _namespaces_. These are created as part of evaluating a body of a function or an object. Thus there's one single _**global**_ namespace and numerous _**local**_ namespaces.
-
-Assignment
--------
-- _**Assignment**_ statements are used prominently for the purpose of preserving objects created by an expression.
-- There're three types of assignment:
-    + Basic assignment, _**syntax:**_ `variable = expression`.
-    + Augmented assignment, _**syntax:**_ `variable += expression`.
-    + Multiple assignment which can assign multiple variables at a time considering both sides has equal number of elements. _**Example:**_ `x1, x2 = 2,3`
