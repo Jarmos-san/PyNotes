@@ -16,11 +16,11 @@ Arithmetic Operators
 
 Logical Operators
 -------------
-Python provides three useful _Logical Operators_, namely, the **and**, **or** and **not**. This will be referenced further ahead as we progress more, available [here]]().
+Python provides three useful _Logical Operators_, namely, the **and**, **or** and **not**. This will be referenced further ahead as we progress more, available [here](https://github.com/Jarmos-san/PyNotes/blob/master/comparison_%26_conditional_processing/comparisons.md).
 
 Ternary Operators
 -------------
-Ternary Operators also known as _conditional expressions_ are operators that evaluate based on the condition being `True` or `False`. It allows to test a single-line condition replacing the multi-line `if-else` code block. A detailed excerpt can be accessed [here]().
+Ternary Operators also known as _conditional expressions_ are operators that evaluate based on the condition being `True` or `False`. It allows to test a single-line condition replacing the multi-line `if-else` code block. A detailed excerpt can be accessed [here](https://github.com/Jarmos-san/PyNotes/blob/master/comparison_%26_conditional_processing/if_else_operator.md).
 
 Plain Integers:
 ------
