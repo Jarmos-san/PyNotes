@@ -8,6 +8,8 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 - [Built-in Functions](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/built_in_functions.md)
 - [The `math` Module](https://github.com/Jarmos-san/PyNotes/blob/master/advanced_expressions/math_module.md)
 - [The `random` Module](https://github.com/Jarmos-san/PyNotes/blob/master/advanced_expressions/random_module.md)
+- [Assignment Statements]()
+- [Variables]()
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
 - [Boolean & Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md)
