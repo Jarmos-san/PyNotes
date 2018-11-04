@@ -14,6 +14,14 @@ Arithmetic Operators
 |  // |  Division (floor): divides the first operand by the second | x // y |
 |  %  |  Modulus: returns the remainder when first operand is divided by the second                                              | x % y  |
 
+Logical Operators
+-------------
+Python provides three useful _Logical Operators_, namely, the **and**, **or** and **not**. This will be referenced further ahead as we progress more, available [here]]().
+
+Ternary Operators
+-------------
+Ternary Operators also known as _conditional expressions_ are operators that evaluate based on the condition being `True` or `False`. It allows to test a single-line condition replacing the multi-line `if-else` code block. A detailed excerpt can be accessed [here]().
+
 Plain Integers:
 ------
 - Python integers are 32 bits long and it's range is -2,147,483,648 to 2,147,483.

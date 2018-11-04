@@ -10,9 +10,14 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 - [The `random` Module](https://github.com/Jarmos-san/PyNotes/blob/master/advanced_expressions/random_module.md)
 - [Assignment Statements]()
 - [Variables]()
+- [Truth and Logic]()
+- [Comparisons]()
+- [Conditional Processing]()
+- [The `pass` Statement]()
+- [The `assert` statement]()
+- [The `if-else`/Ternary Operator]()
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
-- [Boolean & Comparison Operators](https://github.com/Jarmos-san/PyNotes/blob/master/boolean_comparison_operators.md)
 - [Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md)
 
 Books
