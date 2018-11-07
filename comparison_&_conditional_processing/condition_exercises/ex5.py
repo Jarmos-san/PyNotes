@@ -16,8 +16,19 @@ X = 13
 Y = 57
 Z = 18
 
-if X <= Y and X <= Z:
-	if Y <= Z:
-		x = X
+if X <= Y <= Z:
+    x, y, z = X, Y, Z
+elif X <= Z <= Y:
+    x, z, y = X, Y, Z
+elif Y <= X <= Z:
+    y, x, z = X, Y, Z
+elif Y <= Z <= X:
+    y, z, x = X, Y, Z
+elif Z <= X <= Y:
+    z, x, y = X, Y, Z
+else:
+    z, y, x = X, Y, Z
 
 print('x = ', x)
+print('y = ', y)
+print('z = ', z)
