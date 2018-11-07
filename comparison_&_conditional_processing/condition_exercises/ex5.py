@@ -12,23 +12,12 @@ will depend on the value set for x; similarly, your analysis for setting z will 
 set for x and y.
 '''
 
-X = 26
+X = 13
 Y = 57
-Z = 13
+Z = 18
 
-# if-else block for x
 if X <= Y and X <= Z:
-	x = X
 	if Y <= Z:
-		x = Y
-	else:
-		x = Z
-
-# if-else block for y
-elif X >= Y and Y <= Z:
-	y = Y
-
-# if-else block for z
+		x = X
 
 print('x = ', x)
-print('y = ', y)
