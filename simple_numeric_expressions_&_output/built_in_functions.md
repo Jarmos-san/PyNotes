@@ -61,6 +61,24 @@ Collection Function
 1
 ```
 
+The `range()` Function
+------------------
+- The built-in `range()` function iterates over a sequence of numbers generating an iterator of arithmetic progressions.
+- The `range()` function has three forms.
+    + `range(x)`, which generates a sequence of distinct values from 0 to x-1, each incremented by 1.
+    + `range(x, y)`, which generates a sequence of distinct values from y-x to y, incremented by 1.
+    + `range(x, y, z)`, which generates a sequence of distinct values from y-x to y each incremented by a value of z.
+
+_**Example:**_
+
+```Python
+>>> list(range(10))
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+>>> list(range(1, 11))
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> list(range(0, 30, 5))
+[0, 5, 10, 15, 20, 25]
+```
 _**References:**_
 - [Stack Overflow](https://stackoverflow.com/a/2626364/8604951)
 - [Corey Schafer - Python Tutorial: `str()` vs `repr()`](https://www.youtube.com/watch?v=5cvM-crlDvg)
