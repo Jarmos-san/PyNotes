@@ -19,6 +19,7 @@ PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-
 - [Strings](https://github.com/Jarmos-san/PyNotes/blob/master/strings.md)
 - [String/Print Formatting Methods](https://github.com/Jarmos-san/PyNotes/blob/master/string_formatting.md)
 - [Functions](https://github.com/Jarmos-san/PyNotes/blob/master/functions.md)
+- [Testing](https://realpython.com/python-testing/#testing-your-code)
 
 Books
 -----
