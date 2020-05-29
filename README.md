@@ -42,5 +42,3 @@ Acknowledgments
 License
 -----
  [PyNotes](https://github.com/Jarmos-san/PyNotes) by [Somraj Saha](https://github.com/Jarmos-san) is licensed under [CC BY-NC 4.0](https://github.com/Jarmos-san/PyNotes/blob/master/LICENSE.md).
-
-_**GOOD LUCK AND HAPPY LEARNING**_
