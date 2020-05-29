@@ -1,5 +1,7 @@
 # PyNotes
 
+[![Twitter](https://img.shields.io/twitter/url?color=Blue&label=Follow%20Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJarmosan)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FJarmos-san%2FPyNotes)
+
 PyNotes is similar to my other side project [R_Notes](https://github.com/Jarmos-san/R_Notes). It's more of curated list of various resources(video tutorials, online courses, etc) and reading materials which I have made personally while referring to all the resources mentioned below.
 
 - [The `print()` Function](https://github.com/Jarmos-san/PyNotes/blob/master/simple_numeric_expressions_%26_output/print_function.md)
