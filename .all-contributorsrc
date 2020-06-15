@@ -1,10 +1,22 @@
-{
-  "files": ["README.md"],
-  "imageSize": 100,
-  "contributorsPerLine": 7,
-  "contributorsSortAlphabetically": false,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "skipCi": "true",
-  "contributors": []
-}
+"files": [
+  "README.md"
+],
+"imageSize": 100,
+"commit": false,
+"contributors": [
+  {
+    "login": "Jarmos-san",
+    "name": "Somraj",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/31373860?v=4",
+    "profile": "https://about.me/jarmos",
+    "contributions": [
+      "maintenance"
+    ]
+  }
+],
+"contributorsPerLine": 7,
+"projectName": "pynotes",
+"projectOwner": "Jarmos-san",
+"repoType": "github",
+"repoHost": "https://github.com",
+"skipCi": true
