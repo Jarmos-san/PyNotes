@@ -8,15 +8,15 @@ The following is a set of guidelines for contributing to the open-source book Py
 
 This project and everyone participating in it is governed by the [PyNotes Code of Conduct](https://github.com/Jarmos-san/pynotes/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to somraj.mle@gmail.com.
 
-## I've a Question But Don't Want To Read the Whole Thing
+## Do You've a Question To Ask?
 
-> **Note**: Please don't file an issue to ask a question. _You'll get faster results by using the resources below_.
-
-somraj.mle@gmail.com
+It's advisable to **reach out to me directly over email or Twitter for a quick response**. Hence, please avoid opening a new issue with one off questions. Instead drop an email at somraj.mle@gmail.com or leave a tweet [@Jarmosan](https://twitter.com/Jarmosan)
 
 ## What Should I Know Before Getting Started?
 
-{_Placeholder: **Write About PyNotes**_}
+Teaching oneself to code especially if the individual is from a non-technical background is hard work. It's important to refer to a lot of resources, which otherwise would've been readily provided with if the individual would've had a technical academic background. Thus I decided to "re-write" this book for anyone *willing to learn the very underlying concepts of Python programming*.
+
+Hence, PyNotes is targetted towards those individuals who're knowledgeable in programming with Python or any other language but want a no-bullshit resource to quickly grasp the most important concepts. Coding examples have been intentionally left out for enabling the author to quick skim through the concepts. Accordingly, the individual can refer back to the book at another point of time.
 
 ## How Can I Contribute?
 
