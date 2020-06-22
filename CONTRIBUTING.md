@@ -2,7 +2,7 @@
 
 :+1: :tada:  First off, thanks for taking the time to contribute! :tada: :+1:
 
-The following is a set of guidelines for contributing to the open-source book PyNotes hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to the open-source version of the book PyNotes hosted on GitHub. These are mostly guidelines, not rules, so use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Code of Conduct
 
@@ -14,7 +14,7 @@ It's advisable to **reach out to me directly over email or Twitter for a quick r
 
 ## What Should I Know Before Getting Started?
 
-Teaching oneself to code especially if the individual is from a non-technical background is hard work. It's important to refer to a lot of resources, which otherwise would've been readily provided with if the individual would've had a technical academic background. Thus I decided to "re-write" this book for anyone *willing to learn the very underlying concepts of Python programming*.
+Teaching oneself to code especially if you're from a non-technical background is hard work. It's important to refer to a lot of resources, which otherwise would've been readily provided with if the individual would've had a technical academic background. Thus I decided to "re-write" this book for anyone *willing to learn the very underlying concepts of Python programming*.
 
 Hence, PyNotes is targetted towards those individuals who're knowledgeable in programming with Python or any other language but want a no-bullshit resource to quickly grasp the most important concepts. Coding homeworks/lessons have been intentionally left out for enabling the author to quick skim through the concepts. Accordingly, the individual can refer back to the book at another point of time.
 
@@ -27,8 +27,8 @@ An open-source book isn't so common on the platform, hence it can be a bit daunt
 - *Designing*: A book's design is as much important as the content it serves. A good catchy design can help make it stand out from the rest of the crowd, hence, if you're a designer by profession. get in touch?
 - *Better Code Examples*: The best way to understand code is through analogy & examples but alas not every examples are easy grasp. Considering how hard it is to read someone else's code, a beginner struggling to understand a code example shouldn't seen as something surprising. Thus any contributions for easy-to-understand code examples are extemely welcome.
 
-Finally, you should be aware of these aforementioned guide as just mere ideas & strict rules to abide by. So please feel free to contribute to the project in whichever way you're comfortable or you could even get in touch for further discussions.
+Finally, you should be aware of these aforementioned guide as just mere ideas & not strict rules to abide by. So please feel free to contribute to the project in whichever way you're comfortable or you could even get in touch for further discussions.
 
 ## Additional Notes
 
-If you've contributed something however small may it be, you should be compensated accordingly. Hence, whenever you make a pull request, please add yourself as a contributor to the project using the following command in PR `@all-contributors please add <username> for <contributions>`. If you wait for a min or two, your name & avatar should show up under the [Contributors](https://github.com/Jarmos-san/pynotes/blob/master/README.md#contributors-) section of the README.md file.
+If you've contributed something however small may it be, you should be compensated accordingly. Hence, whenever you make a pull request, please add yourself as a contributor to the project using the following command in PR `@all-contributors please add <username> for <contributions>`. If you wait for a min or two, your name & avatar should show up under the [Contributors](https://github.com/Jarmos-san/pynotes/blob/master/README.md#contributors-) section of the README file.
