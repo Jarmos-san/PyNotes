@@ -32,19 +32,28 @@ Python is a multi-paradigm general purpose scripting language. It's often used f
 
 ## Why Use Python
 
-- It's Object-Oriented & Functional As Well
-- Available for Free
-- Extrememly Portable & Available on Multiple Platforms
-- Very Powerful
-- Ease of Learning & Using
+- As Python is a multi-paradigm language, you as a developer, is left free to choose whichever paradigmn to write a script in. You could write a whole script using OOP aspects making full use of its class model systems.
+
+- Python is completely free, will always be & is also allowed to package it up for redistribution. It's source code is available for anyone to take a peek into which means, if you're so inclined & want to make a different typen of the Python programming itself for yourself, you're free to do so.
+
+- As of writing the book Python isn't only available on all major platforms but is available on hand-held devices as well like your iPhone! On the other hand, Python comes preinstalled with all the major Unix-based systems. So if you own a Mac or a Debian-based system, all that you've to do is call Python using the `Python` command on the Command-Line Interface(CLI).
+
+- The Python toolbox is extremely versatile & its only becoming better by each passing day.Besides, all the reasons mentioned earlier, Python allows for dynamic typing which means, you won't have to specific mention the type of the object, although this behaviour can be changed somewhat using type hints. It also has a myriad variety of commonly used object-types, tools to manipulate the object-types & libraries all built-in! If the built-in stuff isn't enough for your use case, then Python also supports an inexhaustive list of third-party utlities hosted at PyPi which can be downloaded using `pip` - The Python Package Installer.
+
+- Ease of Learning & Using -- I've already mentioned countless time previously but due to Python natural-language like syntax, its relatively easier for even someone who hasn't written a single line of code earlier.
 
 ## Python vs Arbitrary Language
 
 ## How To Run Python Programmes
 
-- Interactive Prompt
-- Command Line Usage & Scripting
-- Unix-style Executable Scripts
-- Clicking File Icons(On Windows)
-- Importing `.py` Files & Attributes
-- Using an Editor
+- The simplest way to run Python code is through the interactive command line or commonly known as CLI. Although most Unix-based systems come with Python preinstalled, Windows user has to install by downloading the installer from the official Python website. Thereafter, just typing `python` in the Terminal or Command Prompt for Debin/Mac users & Windows users respectively.
+
+- The interactive pompt is great for quick testing small scripts but a drawback is persistent execution of the lines of code. This makes it extremely difficult to write code & permanently store them for later use. Hence, Python scripts are written in files with the `.py` extension which can then be executed through the Terminal by calling the `python <filename.py>` command.
+
+- In certain use cases like executing a Python script remotely on a server, its convenient to give the file executable privileges in an Unix-like environment. Fortunately, doing so is as easy as typing the `#!/usr/local/bin/python` shebang line at the top of the file & making it a executable using `chmod`.
+
+- **Note:  `proof-read this section`** Clicking File Icons(On Windows) -- But contrary to the Unix-like system making a executable file out of a Python script for Windows isn't always a easy task. Although the shebang use case does work most of the time, libraries like wsPython are useful.
+
+- If it's not obvious by now, Python scripts are saved using the `.py` file extension. So basically every other Python module is a script with the `.py` file extension. So in a few later sections of the book, whenever an `import` statement is used assume a Python script is being imported from somewhere.
+
+- Using an Editor -- Typing a line of code on the interactive prompt each time a need arises can be exhaustive, inefficient & not so developer-friendly. Hence, its recommended to use some kind of Text Editors or Interactive Development Environemt(IDE) to write your code. Sublime Text, Atom & my personal favorite, Visual Studio Code are some of the popular Text Editors created specifically for coding & development.
