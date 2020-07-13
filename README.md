@@ -1,4 +1,4 @@
-# PyNotes [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-) [![Twitter](https://img.shields.io/twitter/url?color=Blue&label=Follow%20Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJarmosan)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FJarmos-san%2FPyNotes)![Github](https://img.shields.io/github/license/jarmos-san/pynotes)
+# PyNotes [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-) [![Twitter](https://img.shields.io/twitter/url?color=Blue&label=Follow%20Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJarmosan)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FJarmos-san%2FPyNotes) ![Github](https://img.shields.io/github/license/jarmos-san/pynotes)
 
 Readers of PyNotes can expect a concise yet comprehensive book about the Python programming language. The inspiration to write such a book arose when I wanted to have a physical copy of a reference material for the language. Hence, through PyNotes I hope to achieve what I've been trying to do.
 

@@ -10,7 +10,7 @@ Python is a multi-paradigm general purpose scripting language. It's often used f
 
 4. Python is also the world's second most popular language as of writing this book. It practically means, developers with Python skills has a higher chance of being hired.
 
-## So what can you do with Python?
+## What Can You Do With Python
 
 - Systems Programming
 - GUIs
@@ -22,7 +22,7 @@ Python is a multi-paradigm general purpose scripting language. It's often used f
 - Numeric & Scientific Programming
 - Generic Use Cases Like Data Mining & Such
 
-## Why Use Python?
+## Why Use Python
 
 - It's Object-Oriented & Functional As Well
 - Available for Free
@@ -33,3 +33,10 @@ Python is a multi-paradigm general purpose scripting language. It's often used f
 ## Python vs Arbitrary Language
 
 ## How To Run Python Programmes
+
+- Interactive Prompt
+- Command Line Usage & Scripting
+- Unix-style Executable Scripts
+- Clicking File Icons(On Windows)
+- Importing `.py` Files & Attributes
+- Using an Editor
