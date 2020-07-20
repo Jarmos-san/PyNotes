@@ -10,9 +10,6 @@ Accordingly, if you feel that your idea sharing knowledge aligns with mine, I wi
 
 Besides, if you're inclined to contribute to the project through other means, I suggest that you give the [Contribution Guidelines](https://github.com/Jarmos-san/pynotes/blob/master/CODE_OF_CONDUCT.md) a though read.
 
-## License
-
- [PyNotes](https://github.com/Jarmos-san/PyNotes) by [Somraj Saha](https://github.com/Jarmos-san) is licensed under [CC-BY-4.0](https://github.com/Jarmos-san/PyNotes/blob/master/LICENSE).
 
 ## Contributors ✨
 
