@@ -12,7 +12,7 @@ Besides, if you're inclined to contribute to the project through other means, I 
 
 ## License
 
- [PyNotes](https://github.com/Jarmos-san/PyNotes) by [Somraj Saha](https://github.com/Jarmos-san) is licensed under [CC0 v1.0 Universal](https://github.com/Jarmos-san/PyNotes/blob/master/LICENSE).
+ [PyNotes](https://github.com/Jarmos-san/PyNotes) by [Somraj Saha](https://github.com/Jarmos-san) is licensed under [CC-BY-4.0](https://github.com/Jarmos-san/PyNotes/blob/master/LICENSE).
 
 ## Contributors ✨
 
