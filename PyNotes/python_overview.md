@@ -42,7 +42,11 @@ Python is a multi-paradigm general purpose scripting language. It's often used f
 
 - Ease of Learning & Using -- I've already mentioned countless time previously but due to Python natural-language like syntax, its relatively easier for even someone who hasn't written a single line of code earlier.
 
-## Python vs Arbitrary Language
+## Python vs Arbitrary Language: Which Is Better
+
+For most beginner programmers it's obvious which language would be best to start learning with. And of course without a single doubt in mind, Python is perhaps the best choice for someone who has never written a line of code ever. Primary reasons being, the almost natural English language-like syntax & the huge community support. But it's not like other programming languages doesn't enjoy the liberty of a thriving community. Javascript, Rust, C++, Java to name a few has already seen immense acceptance in a wide variety of applications. Hence, I often refrain from comparing Python with other programming languages in context to finding out which is better. At the end of the day it comes down to personal preference & mainly the specific type of job to be completed.
+
+
 
 ## How To Run Python Programmes
 
