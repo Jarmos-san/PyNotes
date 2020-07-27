@@ -1,6 +1,6 @@
 # PyNotes 
 
-[![All Contributors](https://img.shields.io/badge/All_Contributors-1-orange.svg?style=flat-square)](#contributors-) 
+[![GitHub contributors](https://img.shields.io/github/contributors/Jarmos-san/pynotes?color=Cyan&label=Contributors&logo=Github&style=flat-square)](https://github.com/Jarmos-san/pynotes/graphs/contributors)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me!&style=social&url=https%3A%2F%2Ftwitter.com%2FJarmosan)](https://twitter.com/Jarmosan)
 [![GitHub](https://img.shields.io/github/license/Jarmos-san/pynotes?color=Blue&label=License&style=flat-square)](https://github.com/Jarmos-san/pynotes/blob/master/LICENSE)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/somraj.mle@gmail.com)
@@ -18,22 +18,3 @@ Accordingly, if you feel that your idea sharing knowledge aligns with mine, I wi
 Besides, if you're inclined to contribute to the project through other means, I suggest that you give the [Contribution Guidelines](https://github.com/Jarmos-san/pynotes/blob/master/CODE_OF_CONDUCT.md) a though read.
 
 Besides, for some reason or the other, if it's not possible to donate some of your valuable personal time to the project, I'll be utterly grateful if you can pledge a small financial contribution each month. Even a small $10/month is a significant help towards supporting me progress towards creating Open-Source content & books. So if you did decide to pledge in, please know, I'm very grateful for the contributions. For more information I suggest checking out my [Patreon page](https://www.patreon.com/jarmos) where you can stay updated of my recent projects or general announcements.
-
-
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://about.me/jarmos"><img src="https://avatars3.githubusercontent.com/u/31373860?v=4" width="100px;" alt=""/><br /><sub><b>Somraj</b></sub></a><br /><a href="#maintenance-Jarmos-san" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
