@@ -1,8 +1,8 @@
 # PyNotes 
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Jarmos-san/pynotes?color=Cyan&label=Contributors&logo=Github&style=flat-square)](https://github.com/Jarmos-san/pynotes/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/Jarmos-san/pynotes?color=Cyan&label=Contributors&logo=Github)](https://github.com/Jarmos-san/pynotes/graphs/contributors)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20Me!&style=social&url=https%3A%2F%2Ftwitter.com%2FJarmosan)](https://twitter.com/Jarmosan)
-[![GitHub](https://img.shields.io/github/license/Jarmos-san/pynotes?color=Blue&label=License&style=flat-square)](https://github.com/Jarmos-san/pynotes/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/Jarmos-san/pynotes?label=License)](https://github.com/Jarmos-san/pynotes/blob/master/LICENSE)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/somraj.mle@gmail.com)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Jarmos-san/pynotes/#readme) 
 [![Open Collective backers](https://img.shields.io/opencollective/backers/somraj-saha?color=Blue&style=flat-square)](https://opencollective.com/somraj-saha)
