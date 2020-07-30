@@ -24,29 +24,37 @@ Python is a multi-paradigm general purpose scripting language which is used for 
 
 - A major reason for Python's rise in popularity is due to the advancements made in the field of ML & AI. As of writing this book, it's literally considered the de facto go-to programming language for those interested in ML. Coupled with execellent ML frameworks & libraries like [TensorFlow](https://www.tensorflow.org/)/[PyTorch](https://pytorch.org/) & [Scikit-Learn](https://scikit-learn.org/stable/), the ML community is yet to embrace any other language whole-heartedly.
 
-- Python has almost completely replaced older popular languages like Fortran/C++ for numerical programming. Its scientific computing library, [NumPy](https://numpy.org/) is a high-performance numeric programming library for Python. Due to its performance speed, Numpy is used extensibly from Astronomy to complex Mathematical Analytics. So if you're a researcher at CERN or you might as well work as a Quant, then you should definitely check it out. 
+- Python has almost completely replaced older popular languages like Fortran/C++ for numerical programming. Its scientific computing library, [NumPy](https://numpy.org/) is a high-performance numeric programming library for Python. Due to its performance speed, Numpy is used extensibly from Astronomy to complex Mathematical Analytics. So if you're a researcher at CERN or you might as well work as a Quant, then you should definitely check it out.
 
 - "_Python IS an general-purpose language_" is a statement you'll hear from literally every Pythonista (A developer who codes in Python)! But nowhere else is it more apparent then generic use cases like Data Mining, Robotics, Automation & similar work.
 
-====EDITED TILL HERE====
-
 ## Why Use Python
 
-- As Python is a multi-paradigm language, you as a developer, is left free to choose whichever paradigmn to write a script in. You could write a whole script using OOP aspects making full use of its class model systems.
+There're probably way more reasons for someone to learn Python than what I can tell about briefly in context to this book. Python is such a versatile language, its used literally in every other field out there which you can think of. To be honest, I could write a small booklet just stating reasons to choose Python over any other languages as your first programming language. Regardless, I chose to list out a few aspects about the Python programming language which beginners who has no prior coding skills should consider.
 
-- Python is completely free, will always be & is also allowed to package it up for redistribution. It's source code is available for anyone to take a peek into which means, if you're so inclined & want to make a different typen of the Python programming itself for yourself, you're free to do so.
+- Python is a *multi-paradigm* programming language & what does it mean for you as beginner with no prior coding knowledge? You'll get a taste of some of the most popular paradigms of writing code in today's world.You see, as a Python developer, you free to write code in either [*Functional*](https://en.wikipedia.org/wiki/Functional_programming) or in [*Object-Oriented*](https://en.wikipedia.org/wiki/Object-oriented_programming) styles, albeit each way of writing has it's own merits & demerits which will discussed briefly later in the book. But the point is, learning Python gives you a fair bit of an idea of the most popular coding paradigms out. So in case if you want to learn an Object-Oriented programming language like C++, then migrating to it will be a breeze for you after learning Python.
 
-- As of writing the book Python isn't only available on all major platforms but is available on hand-held devices as well like your iPhone! On the other hand, Python comes preinstalled with all the major Unix-based systems. So if you own a Mac or a Debian-based system, all that you've to do is call Python using the `Python` command on the Command-Line Interface(CLI).
+- Python is a free, open-source project created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) for the Open-Source Community. This basically means, help is just a Google-search away. The nature of the Open-Source Community is such where everyone is providing a hand to each other for progressing further. So if you're stuck with a question, chances are someone else must've faced the same predicament & asked a question on various communities like [Stack Overflow](https://stackoverflow.com/). Hence, when in doubt, all you got to do is just perform a Google search with your doubt.
 
-- The Python toolbox is extremely versatile & its only becoming better by each passing day.Besides, all the reasons mentioned earlier, Python allows for dynamic typing which means, you won't have to specific mention the type of the object, although this behaviour can be changed somewhat using type hints. It also has a myriad variety of commonly used object-types, tools to manipulate the object-types & libraries all built-in! If the built-in stuff isn't enough for your use case, then Python also supports an inexhaustive list of third-party utlities hosted at PyPi which can be downloaded using `pip` - The Python Package Installer.
+- Apart from being used in many fields of applications, Python is available not just on major platforms like MacOS, Linuxor Windows. If you own an iPhone, check the App Store & you'll probably find an app to practice writing Python code! You don't even have to own a laptop or a desktop to learn Python, if that's not cool enough, I'm not sure what is. Or if you could even use [Repl.it](https://repl.it/), in case you don't want to commit too much before getting a gist of what Python is like.
 
-- Ease of Learning & Using -- I've already mentioned countless time previously but due to Python natural-language like syntax, its relatively easier for even someone who hasn't written a single line of code earlier.
+- As mentioned in a previous point, Python's community is *huge* but diverse as well which is why you might come across many third-party libraries specifically created for specific jobs! For example, do you want to control a robot using a [Raspberry Pi](https://www.raspberrypi.org/), then there's a library for it [RPi.GPIO](https://pypi.org/project/RPi.GPIO/), making your life so much more easier. That was just one example, so as you can already figure out by now, Python can be used not just to create complex Neural Networks but it's extensibly used elsewhere too. The sky is truly the limit to what field Python can be used in. And considering how the community is only increasing over each day, these third party libraries will only get better gradually.
+
+- Python's syntax is natural language-like, it reads like normal English language & you might often hear experts saying, "it doesn't appear Pythonic". What they mean by it, is basically a line of code which could be made more simple to read. Further inside the book, you'll read about List Comprehensions & it'll all make sense why Python's syntax is considered almost natural-language like.
 
 ## Python vs Arbitrary Language: Which Is Better
 
-For most beginner programmers it's obvious which language would be best to start learning with. And of course without a single doubt in mind, Python is perhaps the best choice for someone who has never written a line of code ever. Primary reasons being, the almost natural English language-like syntax & the huge community support. But it's not like other programming languages doesn't enjoy the liberty of a thriving community. Javascript, Rust, C++, Java to name a few has already seen immense acceptance in a wide variety of applications. Hence, I often refrain from comparing Python with other programming languages in context to finding out which is better. At the end of the day it comes down to personal preference & mainly the specific type of job to be completed.
+For a beginner with no prior coding knowledge it's fair to wonder which language would easy to grasp quickly. Most of these beginners also tend to think, knowing an X number of languages, naturally makes you a better programmer. If that's what you've been thinking all this while, apologies to burst your bubble.
 
+You see programming is like driving a car, once learnt it's hard to forget how to manoeuvre it. But if you had to drive a Tesla tomorrow while all your life you've been driving a mini-van, chances are you'll find it difficult but just for a while. Within a couple of hours you'll probably be cruising around top-speed limit on the highway. Programming is exactly similar, almost all programming languages are somewhat similar at its core. The only major thing making programming languages different from each other are the syntax & paradigms they offer. Hence, Python being a multi-paradigm programming language, its quite popular among beginners to learn as their first.
 
+You can grasp literally any other language in less than a month if you know how to write code in Python.
+
+So does it mean Python is the best language out there? I mean, if its so beginner friendly, obviously it has to be the best, right?
+
+Not really. Python has it's demerits just as any other language. At the end of the day it really comes down to the specific task to be accomplished & the developer's personal choice. So there's no clear winner for the question.
+
+If you've never written a single line of code before, HTML doesn't count, then stick to Python for now. Learn the minute intricacies of Python & only then will you be able to decide if Python is/was the right language for you & the job you're assigned to complete.
 
 ## How To Run Python Programmes
 
@@ -55,8 +63,6 @@ For most beginner programmers it's obvious which language would be best to start
 - The interactive pompt is great for quick testing small scripts but a drawback is persistent execution of the lines of code. This makes it extremely difficult to write code & permanently store them for later use. Hence, Python scripts are written in files with the `.py` extension which can then be executed through the Terminal by calling the `python <filename.py>` command.
 
 - In certain use cases like executing a Python script remotely on a server, its convenient to give the file executable privileges in an Unix-like environment. Fortunately, doing so is as easy as typing the `#!/usr/local/bin/python` shebang line at the top of the file & making it a executable using `chmod`.
-
-- **Note:  `proof-read this section`** Clicking File Icons(On Windows) -- But contrary to the Unix-like system making a executable file out of a Python script for Windows isn't always a easy task. Although the shebang use case does work most of the time, libraries like wsPython are useful.
 
 - If it's not obvious by now, Python scripts are saved using the `.py` file extension. So basically every other Python module is a script with the `.py` file extension. So in a few later sections of the book, whenever an `import` statement is used assume a Python script is being imported from somewhere.
 
